@@ -1,0 +1,5 @@
+github.com/jacobsa/fuse v0.0.0-20230225155227-86031ac261e8 h1:NYh8XqhLIvERKFZCMGvOLDbs80U/WK9sbqOrSPgrlDE=
+github.com/jacobsa/fuse v0.0.0-20230225155227-86031ac261e8/go.mod h1:QYoHF23Bm8PAG0X7BwBex7dGt9c7cocuLQvXOgblDSE=
+github.com/kylelemons/godebug v1.1.0 h1:RPNrshWIDI6G2gRW9EHilWtl7Z6Sb1BR0xunSBf0SNc=
+golang.org/x/sys v0.5.0 h1:MUK/U/4lj1t1oPg0HfuXDN/Z1wv31ZJ/YcPiGccS4DU=
+golang.org/x/sys v0.5.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
