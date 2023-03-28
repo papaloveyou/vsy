@@ -1,0 +1,12 @@
+[Unit]
+Description=FUSE filesystem VSY
+
+[Service]
+ExecStart=/usr/bin/vsy
+Restart=on-failure
+RestartSec=10s
+ExecStop=/usr/bin/fusermount -u /var/lib/vsy
+Delegate=yes
+
+[Install]
+WantedBy=multi-user.target
